@@ -1,6 +1,7 @@
 # IARCustomKeywordGenerator
 <b>Parses .ewp project file to .txt file for "User keywords" in IAR.</b><br>
 <br>
+<b>I have included main_app.ewp for testing</b><br><br>
 Requires 5 inputs:<br>
   <b>source filename</b>: .ewp file to parse through and find all ".c" files to parse.<br>
   <b>syntax filename</b>: .txt file to fill with function names, for later use in IAR "Custom Keyword File"<br>
