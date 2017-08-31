@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1504202110 source:c:\users\lakeyc\documents\syntaxparser\syntaxparser\main.c
+	<stdio.h>
+	"c_file_parser.h"
+	"ewp_file_parser.h"
+
+1504201197 source:c:\users\lakeyc\documents\syntaxparser\syntaxparser\src\c_file_parser.c
+	<stdio.h>
+
+1504202047 source:c:\users\lakeyc\documents\syntaxparser\syntaxparser\src\ewp_file_parser.c
+	<stdio.h>
+	<string.h>
+
+1504201700 source:c:\users\lakeyc\documents\syntaxparser\syntaxparser\src\project_parser.c
+	<stdio.h>
+	"c_file_parser.h"
+
