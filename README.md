@@ -9,7 +9,7 @@ Requires 5 inputs:<br>
   project directory: your unique "$PROJ_DIR$" define to replace.<br>
  <br>
  <br>
-This project is for generating a .txt file with all of the function names <br>
-in your IAR EWARM project. The purpose of gathering this info, is for use <br>
-in Tools->Options->Editor->Setup Files->Use Custom Keyword File. Using this<br>
-allows you to define a "User Keyword" color for all words placed in that .txt file.<br>
+This project is for generating a .txt file with all of the function names 
+in your IAR EWARM project. The purpose of gathering this info, is for use 
+in Tools->Options->Editor->Setup Files->Use Custom Keyword File. Using this
+allows you to define a "User Keyword" color for all words placed in that .txt file.
